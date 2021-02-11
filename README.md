@@ -1,2 +1,5 @@
 # Python
-coding Probelms
+coding Probelms And algorithms
+
+Editor : Jupiter Notebook
+
